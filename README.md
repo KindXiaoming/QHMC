@@ -11,9 +11,9 @@ prerequisite:
 * Add the folder ./functions to your path in MATLAB
 
 codes:
-* section 6.1 ./synthetic
-* section 6.2 ./sparse-bridge-regression
-* section 6.3 ./image-denoising
+* section 6.1:   ./synthetic
+* section 6.2:   ./sparse-bridge-regression
+* section 6.3:   ./image-denoising
 
 
 <h2>PYTHON</h2>
@@ -26,6 +26,6 @@ packages required:
 * copy
 
 codes:
-* section 6.4 ./bayesian-neural-network
+* section 6.4:   ./bayesian-neural-network
 
 
