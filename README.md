@@ -16,7 +16,8 @@ codes:
 * section 6.2 ./sparse-bridge-regression
 * section 6.3 ./image-denoising
 
-PYTHON
+
+<h2>PYTHON</h2>
 
 packages required:
 * numpy
