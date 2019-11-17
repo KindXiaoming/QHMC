@@ -9,7 +9,7 @@ prerequisite:
 * Add the folder ./functions to your path in MATLAB
 
 codes:
-* section 6.1:   ./synthetic
+* section 6.1:   ./synthetic-examples
 * section 6.2:   ./sparse-bridge-regression
 * section 6.3:   ./image-denoising
 
