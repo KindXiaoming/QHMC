@@ -1,9 +1,7 @@
 # QHMC
 Quantum-inspired Hamiltonian Monte Carlo
 
-The codes belong to the experiment section of this QHMC paper.
-
-The codes are implemented in MATLAB and PYTHON.
+The codes belong to the experiment section of this QHMC paper, and are implemented in MATLAB and PYTHON.
 
 <h2>MATLAB</h2>
 
